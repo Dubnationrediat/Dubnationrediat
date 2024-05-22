@@ -25,7 +25,7 @@ const Rediat = {
             native: ["Biggner React Native developer"]
         },
         devOps: ["AWS", "Docker🐳", "Nginx"],
-        databases: ["mongo", "MySql"],
+        databases: ["mongoDB", "MySql"],
         misc: ["Firebase", "Socket.IO", "selenium" ],
         automationTool : ["Selenium"],
         testingTool : ["Cypress.io"]
